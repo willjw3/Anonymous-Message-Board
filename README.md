@@ -1,5 +1,5 @@
 # Anonymous Message Board
-a freeCodeCamp project. 5th of 5 projects of InfoSec and QA certification.</br>
+a freeCodeCamp project. 5th of 5 projects required for fCC's Information Security and Quality Assurance Certification.</br>
 View the working application [here](https://bramble-wednesday.glitch.me/).</br>
 
 ## Documentation
