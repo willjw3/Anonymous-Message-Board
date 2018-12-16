@@ -2,7 +2,7 @@
 a freeCodeCamp project. 5th of 5 projects of InfoSec and QA certification.</br>
 
 ## Documentation
-*Only allow your site to be loading in an iFrame on your own pages.</br>
+* Only allow your site to be loading in an iFrame on your own pages.</br>
 Do not allow DNS prefetching.
 Only allow your site to send the referrer for your own pages.
 I can POST a thread to a specific message board by passing form data text and delete_password to /api/threads/{board}.(Recomend res.redirect to board page /b/{board}) Saved will be _id, text, created_on(date&time), bumped_on(date&time, starts same as created_on), reported(boolean), delete_password, & replies(array).
