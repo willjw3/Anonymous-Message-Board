@@ -1,7 +1,7 @@
 # Anonymous Message Board
 a freeCodeCamp project. 5th of 5 projects required for fCC's Information Security and Quality Assurance Certification.</br>
 A full stack application built using Node.js, Express, and MongoDB.</br>
-Go to the master branch to see the source code.</br>
+**Source code** can be found on the **glitch** branch.</br>
 View the working application [here](https://bramble-wednesday.glitch.me/).</br>
 
 ## Documentation
